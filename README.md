@@ -3,7 +3,7 @@
   Blockholder is a Wallet App for XRP, design to provide the users with a secure and seamless experience to manage XRP funds, all the User Data and Private Keys are store **ONLY** locally in the device making the user fully owner of his private keys.
 At the moment **iOS** available **Android** coming soon.
 
-![alt text](https://github.com/asielgil88/blockholder-app/blob/master/images/blockholder_home.png) 
+![alt text](https://github.com/asielgil88/blockholder-app/blob/master/images/screen_home.png) ![alt text](https://github.com/asielgil88/blockholder-app/blob/master/images/screen_send.png) ![alt text](https://github.com/asielgil88/blockholder-app/blob/master/images/screen_settings.png) 
   
 ## Beta Testing!
   The Beta testing program is configured to use the `s.altnet.rippletest.net` ledger, so you don't need to use real Funds you can create an XRP Test Net account Pre Funded for Testing.
