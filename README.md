@@ -34,3 +34,4 @@ You can also:
   - See Accounts and Transaction Details
 
 ## Feedback
+Make sure to leave us your feedback you can use or [Feedback Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfb9NggDe9KbAeTfTywRw1MHcxQpMi0UMBhUIo7AjwwoTK7MA/viewform) or you can create issues in this [github issue tracker](https://github.com/asielgil88/blockholder-app/issues)
