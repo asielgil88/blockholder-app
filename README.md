@@ -24,7 +24,7 @@ At the moment **iOS** available **Android** coming soon.
 ## Features
   - Passcode Security Validation
   - Generate Account (Needs to fund your need account with 20 XRP)
-  - Import Existing Account, you can use  [Test Net Generator](https://xrpl.org/xrp-test-net-faucet.html) to generate an account with fund and them import the account using the secret generated to the Blockholder APP
+  - Import Existing Account, you can use  [Test Net Generator](https://xrpl.org/xrp-test-net-faucet.html) to generate an account with fund and then import the account using the secret generated to the Blockholder APP
   - Receive Funds, Share your account address to start receiving FUNDS
   - Send Funds use your selected account to send FUNDS
   - Export your secrets(Private Keys and Secret) keep your Wallet private Keys save, so you can import them to other wallets or recover your account if your device is lost.
